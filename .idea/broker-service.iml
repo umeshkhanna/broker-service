@@ -7,5 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="project" />
     <orderEntry type="module" module-name="go-restapi" />
+    <orderEntry type="module" module-name="authentication-service" />
   </component>
 </module>
