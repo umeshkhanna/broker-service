@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/broker-service.iml" filepath="$PROJECT_DIR$/.idea/broker-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../go-restapi/.idea/go-restapi.iml" filepath="$PROJECT_DIR$/../go-restapi/.idea/go-restapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../logger-service/.idea/logger-service.iml" filepath="$PROJECT_DIR$/../logger-service/.idea/logger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mail-service/.idea/mail-service.iml" filepath="$PROJECT_DIR$/../mail-service/.idea/mail-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
     </modules>
   </component>

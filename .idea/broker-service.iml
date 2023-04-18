@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="go-restapi" />
     <orderEntry type="module" module-name="authentication-service" />
     <orderEntry type="module" module-name="logger-service" />
+    <orderEntry type="module" module-name="mail-service" />
   </component>
 </module>
